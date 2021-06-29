@@ -6,3 +6,6 @@
 >String Operation, Sort, Count   
 
 >Olympics data - querying between different challenges in the given dataset.
+
+
+![Alt text](https://github.com/Jacer7/Pandas_All/blob/main/Plot.PNG?raw=true "Title")
