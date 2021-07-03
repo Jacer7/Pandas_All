@@ -13,3 +13,4 @@
 
 ![Alt text](https://github.com/Jacer7/Pandas_All/blob/main/colormaps_reference_03.png?raw=true "ColorGuide")   
 
+![Alt text](https://github.com/Jacer7/Pandas_All/blob/main/groupby.PNG?raw=true "ColorGuide")  
